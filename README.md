@@ -9,7 +9,7 @@ This repository contains implementations of various Convolutional Neural Network
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#LICENSE)
+- [License](LICENSE)
 
 ## Introduction
 
