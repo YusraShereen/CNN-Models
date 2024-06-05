@@ -1,4 +1,4 @@
-# CNN Models Repository
+# CNN Models
 
 This repository contains implementations of various Convolutional Neural Network (CNN) architectures using TensorFlow and Keras. These models can be used for educational purposes, research, and development. Each model is implemented in a standalone script for ease of understanding and usage.
 
