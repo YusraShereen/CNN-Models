@@ -61,7 +61,6 @@ Ensure you have the following installed:
 - Python 3.6+
 - TensorFlow
 - Keras
-- Other dependencies listed in `requirements.txt`
 
 ### Installation
 
